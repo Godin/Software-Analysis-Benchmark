@@ -9,6 +9,7 @@
 */
 
 #include "HeaderFile.h"
+static int sink;
 
 /*
  * Types of defects: an incorrect pointer arithmetic

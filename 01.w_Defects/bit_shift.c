@@ -9,6 +9,7 @@
 */
 #include "HeaderFile.h"
 int rand (void);
+static int sink;
 
 /*
   * Types of defects: bit shift error

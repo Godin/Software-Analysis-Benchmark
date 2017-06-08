@@ -10,6 +10,8 @@
 
 int rand (void);
 #include "HeaderFile.h"
+static int sink;
+
 /*
  * Types of defects: assignment from large to small size data type - data lost  problem
  * Complexity: char	-> short	Variable

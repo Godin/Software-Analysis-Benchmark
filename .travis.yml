@@ -1,0 +1,6 @@
+dist: trusty
+
+script: ./bootstrap && ./configure && make
+
+notifications:
+  email: false

@@ -11,6 +11,8 @@
 /*	(Note) created test, assuming the maximum stack size 15 Kbytes (= 15360 bytes)	*/
 
 #include "HeaderFile.h"
+static double sink;
+static int idx;
 
 /*
  * Types of defects: stack overflow

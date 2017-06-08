@@ -15,6 +15,7 @@
 * MAX Heap memory in Windows 7 32 bit 2GB
 */
 #include "HeaderFile.h"
+static int sink;
 
 #define MAX_VAL UINT_MAX
 

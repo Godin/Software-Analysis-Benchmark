@@ -8,6 +8,8 @@
 *
 */
 #include "HeaderFile.h"
+static int sink;
+
 int rand (void);
 
 /*

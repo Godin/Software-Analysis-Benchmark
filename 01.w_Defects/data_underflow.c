@@ -9,6 +9,8 @@
 */
 
 #include "HeaderFile.h"
+static int sink;
+
 /*
  * Types of defects: underflow
  * Complexity: int	Underflow with -2	Constant

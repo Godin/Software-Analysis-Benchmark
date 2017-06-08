@@ -16,4 +16,6 @@
 
 # define PRINT_DEBUG 1
 
+#include <limits.h>
+
 #endif /* HEADERFILE_H_ */

@@ -10,6 +10,8 @@
 
 #include "HeaderFile.h"
 int rand (void);
+static int idx;
+static int sink;
 
 /*
  * Types of defects: buffer overruns ( static buffer )

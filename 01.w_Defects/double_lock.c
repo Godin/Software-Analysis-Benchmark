@@ -11,7 +11,7 @@
 
 /* #include <pthread.h>	Compile-time options. -lpthread You can specify */
 #include "HeaderFile.h"
-
+static int sink;
 
 /* Polyspace Does not support Concurrency */
 #if defined(CHECKER_POLYSPACE)

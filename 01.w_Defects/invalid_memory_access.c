@@ -16,6 +16,8 @@
  */
 
 #include "HeaderFile.h"
+static int sink;
+static void* psink;
 
 char ** invalid_memory_access_016_doubleptr_gbl;
 char *invalid_memory_access_017_doubleptr_gbl;
